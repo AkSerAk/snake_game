@@ -235,3 +235,4 @@ if __name__ == '__main__':
 
     # Активация игры
     snake.mainloop()
+    print('Game over!!!')
